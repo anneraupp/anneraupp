@@ -1,4 +1,4 @@
-### Oie, eu sou a Anne Raupp 👋
+<h1 align="center">Hi, I'm Anne 👩🏻‍💻</h1>
 
 <div>
   <a href="https://github.com/anneraupp">
