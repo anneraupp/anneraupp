@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Anne 👩🏻‍💻</h1>
+<h3 align="center">An architect that loves Front-End design.</h3>
 
 <div>
   <a href="https://github.com/anneraupp">
