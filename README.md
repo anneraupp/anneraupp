@@ -21,9 +21,9 @@
   ##
   <div style="display: inline_block" align="center"><br>
   <h4 align="center">Languages I speak (and read, write and hear):</h4>
-  <img align="center" title="English" alt="English" height="30" width="40" src="https://raw.githubusercontent.com/lipis/flag-icon-css/master/flags/4x3/us.svg">
-  <img align="center"  title="Spanish" alt="Spanish" height="30" width="40" src="https://raw.githubusercontent.com/lipis/flag-icon-css/master/flags/4x3/es.svg">
-  <img align="center"  title="Portuguese" alt="Portuguese" height="30" width="40" src="https://raw.githubusercontent.com/lipis/flag-icon-css/master/flags/4x3/br.svg">
+  <img align="center" title="English" alt="English" height="30" width="30" src="https://raw.githubusercontent.com/HatScripts/circle-flags/gh-pages/flags/us.svg">
+  <img align="center"  title="Spanish" alt="Spanish" height="30" width="30" src="https://raw.githubusercontent.com/HatScripts/circle-flags/gh-pages/flags/es.svg">
+  <img align="center"  title="Portuguese" alt="Portuguese" height="30" width="30" src="https://raw.githubusercontent.com/HatScripts/circle-flags/gh-pages/flags/br.svg">
   </div>
 
   ##
