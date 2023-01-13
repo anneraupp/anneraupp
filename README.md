@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anne 👩🏻‍💻</h1>
-<h3 align="center">An architect that loves Front-End design.</h3>
+<h3 align="center">An architect changing carreer to Front-End development.</h3>
 
 
   
