@@ -17,7 +17,7 @@
   ##
   
   <div style="display: inline_block" align="center"><br>
-  <h4 align="center">Languages I speak [and read, write and hear]:</h4>
+  <h4 align="center">Languages I speak [and read, write and listen to]:</h4>
   <img align="center" title="English" alt="English" height="30" width="30" src="https://raw.githubusercontent.com/HatScripts/circle-flags/gh-pages/flags/us.svg">
   <img align="center"  title="Spanish" alt="Spanish" height="30" width="30" src="https://raw.githubusercontent.com/HatScripts/circle-flags/gh-pages/flags/es.svg">
   <img align="center"  title="Portuguese" alt="Portuguese" height="30" width="30" src="https://raw.githubusercontent.com/HatScripts/circle-flags/gh-pages/flags/br.svg">
