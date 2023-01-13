@@ -1,11 +1,7 @@
 <h1 align="center">Hi, I'm Anne 👩🏻‍💻</h1>
 <h3 align="center">An architect that loves Front-End design.</h3>
 
-<div align="center">
-  <a style="text-decoration: none" href="https://github.com/anneraupp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anneraupp&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anneraupp&layout=compact&langs_count=7&theme=dracula"/></a>
-</div>
+
   
   <div style="display: inline_block" align="center"><br>
   <h4 align="center">Languages and tools:</h4>
